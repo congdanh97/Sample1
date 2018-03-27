@@ -1,4 +1,4 @@
-package abc.vbn;
+fwefwefpackage abc.vbn;
 
 public class PhanTichSo {
    public static void main(String args[]) {
